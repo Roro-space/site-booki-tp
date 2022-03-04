@@ -1,0 +1,454 @@
+body{
+    margin: 15px;
+    width: auto;
+    margin-top: 0px;
+}
+#header{
+    display: flex;
+    width: 1099px;
+}
+#case1{
+    width: 450px;
+}
+nav ul li{
+    list-style-type: none;
+}
+nav ul{
+    display: flex;
+}
+header a{
+    margin-left: 45px;
+    text-decoration: none;
+}
+header a:hover{
+    border-top: solid;
+    color: blue;
+    padding-top: 30px;
+}
+nav{
+    margin-left: 910px;
+    margin-top: 20px;
+}
+#logo{
+    margin: 0px;
+}
+#image{
+    width: 120px;
+}
+#title1{
+    margin: 0px;
+    font-size: 120%;
+}
+#p1{
+    color: #a8a8a8;
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+#loca{
+    width: 20px;
+}
+#search{
+    display: flex;
+    background-color: #f2f2f2;
+    padding-left: 15px;
+    height: 30px;
+    width: 334px;
+    border: solid 1px;
+    border-color: #0065fc;
+    border-radius: 15px;
+    margin-left: 285px;
+}
+#inputs{
+    margin-left: 20px;
+    background-color: white;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    border-bottom-width: 0px;
+    padding-bottom: 0px;
+}
+#bouttons-rechercher{
+    background-color: #0065fc;
+    margin-top: 0px;
+    padding-top: 05px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 20px;
+    margin-left: 0px;
+    border-radius: 0px 15px 15px 0px;
+}
+#bouttons-rechercher a{
+    color: white;
+    text-decoration: none;
+}
+#input{
+    padding-left: 15px;
+    padding-right: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: none;
+    height: 30px;
+}
+#input:hover{
+    border-color: #0065fc;
+}
+#coco{
+    margin-top: 5px;
+}
+#foot{
+    background-color: #f2f2f2;
+    display: flex;
+    margin-top: 50px;
+}
+#foot div{
+    padding-left: 30px;
+}
+#div2{
+    margin-left: 350px;
+}
+#div3{
+    margin-left: 380px;
+}
+#foot div ul li{
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+#foot div a{
+    color: #ababab;
+    text-decoration: none;
+}
+#liste{
+    padding-left: 0px;
+    margin-top: 0px;
+}
+#liste-title{
+    margin-bottom: 10px;
+    font-size: 130%;
+}
+#sections{
+    display: flex;
+    width: 1089px;
+}
+#reno{
+    width: 230px;
+    height: 220px;
+    margin-top: 0px;
+    border-radius: 10px 10px 0px 0px;
+    margin-bottom: 0px;
+}
+#Rect1{
+    width: 230px;
+    height: 250px;
+    border: black;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border: solid 1px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: #ababab 2px 2px 2px 2px;
+}
+#titre2{
+    height: 20px;
+    width: 160px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 100%;
+}
+#titre2 a{
+    color: black;
+    text-decoration: none;
+}
+#paul{
+    width: 270px;
+    height: 110px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+#cars{
+    display: inline-block;
+    width: 270px;
+    border: black;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border: solid 1px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: #ababab 2px 2px 2px 2px;
+}
+#Activity{
+    display: flex;
+    padding-left: 60px;
+}
+#cars2{
+    border: black;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border: solid 1px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: #ababab 2px 2px 2px 2px;
+    width: 270px;
+    height: 95px;
+    margin-top: 15px;
+}
+
+#paulo{
+    width: 270px;
+    height: 65px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-radius: 10px 10px 0px 0px;
+}
+#article{
+    margin-left: 60px;
+}
+#titre3{
+    height: 20px;
+    width: 170px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 100%;
+}
+#titre3 a{
+    color: black;
+    text-decoration: none;
+    font-size: 80%;
+}
+#Rect3{
+    width: 240px;
+    height: 250px;
+    border: black;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border: solid 1px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: #ababab 2px 2px 2px 2px;
+    margin-left: 60px;
+}
+#reno1{
+    width: 240px;
+    height: 220px;
+    margin-top: 0px;
+    border-radius: 10px 10px 0px 0px;
+    margin-bottom: 0px;
+}
+#bob{
+    padding-left: 5px;
+}
+#Notre-Dame{
+    font-size: 90%;
+}
+#h1{
+    font-size: 130%;
+    margin-top: 40px;
+    margin-left: 60px
+}
+#titree{
+    font-size: 120%;
+    margin-top: 0px;
+}
+#étoile{
+    width: 15px;
+}
+
+#chambres{
+    width: 196px;
+    height: 80px;
+    border-radius: 20px 20px 0px 0px;
+    border: solid 2px white;
+}
+#ligne1{
+    display: flex;
+}
+#ligne2{
+    display: flex;
+    margin-top: 20px;
+
+}
+
+#cnteneur{
+    border: solid black 1px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    width: 200px;
+    box-shadow: #ababab 2px 2px 2px 2px;
+    background-color: white;
+}
+#image{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#auberge{
+    font-size: 120%;
+}
+#hébergement h2{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+#prix{
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+#etoiles{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+#casier-gauche{
+    background-color: #f2f2f2;
+    width: 660px;
+    height: 450px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    border-radius: 20px;
+    margin-left: 6h10px;
+}
+
+#liens{
+    color: black;
+    text-decoration: none;
+}
+#hébergement a{
+    color: black;
+    text-decoration: none;
+}
+#hébergement a:hover{
+    color: #0065fc;
+}
+#oog{
+    display: flex;
+    margin-left: 10px;
+}
+#graph{
+    width: 20px;
+    margin-left: 120px;
+}
+#para-graph{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 100px;
+}
+aside{
+    width: 450px;
+    background-color: #f2f2f2;
+    height: 455px;
+    margin-left: 60px;
+    border-radius: 20px;
+    padding-top: 15px;
+}
+#hébergement{
+    display: flex;
+    margin-left: 55px;
+}
+#oog h2{
+    font-size: 120%;
+    margin-left: 20px;
+}
+#contenant{
+    width: 160px;
+}
+#img{
+    width: 150px;
+    height: 108px;
+    border-radius: 20px 0px 0px 20px;
+    border: 2px solid white;
+}
+#ligne{
+    width: 400px;
+    height: 112px;
+    margin-top: 15px;
+    border: black 1px solid;
+    margin-left: 25px;
+    border-radius: 20px;
+    background-color: white;
+    display: flex;
+    box-shadow: #ababab 2px 2px 2px 2px;
+}
+#mes-titres{
+    margin-left: 0px;
+    font-size: 110%;
+}
+#cccccccc{
+    margin-top: 0px;
+    padding-left: 5px;
+}
+#voir-plus{
+    display: flex;
+}
+#plus{
+    width: 20px;
+    padding-right: 10px;
+}
+#logements{
+    color: #ababab;
+}
+#fiiltre{
+    display: flex;
+    margin-right: 20px;
+}#fiiltre h1{
+    margin-right: 20px;
+}
+#filtres{
+    display: flex;
+    width: 150px;
+    border: #ababab 1px solid;
+    height: 45px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-right: 30px;
+    box-shadow: #a8a8a8 1px 1px 1px 1px;
+}
+#filtrees{
+    display: flex;
+    width: 200px;
+    border: #ababab 1px solid;
+    height: 45px;
+    border-radius: 20px;
+    margin-top: 10px;
+    box-shadow: #a8a8a8 1px 1px 1px 1px;
+    margin-right: 20px;
+}
+#filtres p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 10px;
+
+}
+#filtrees p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 10px;
+
+}
+#icônes{
+    width: 25px;
+    background-color: #deebff;
+    border: #deebff 1px;
+    border-radius: 20px;
+    padding: 10px;
+}
+#filtres h2{
+    padding-left: 15px;
+    padding-top: 3px;
+    font-size: 90%;
+    margin-bottom: 0px;
+}
+#filtrees h2{
+    padding-left: 15px;
+    padding-top: 3px;
+    font-size: 90%;
+    margin-bottom: 0px;
+}
